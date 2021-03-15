@@ -9,7 +9,7 @@
 
 Visit the farm from your own home!
 
-[![Website Link](https://img.shields.io/badge/Visit%20The%20Farm-252525?style=for-the-badge&logo=instacart&logoColor=white&link=https://REPL.repl.co)](https://REPL.kennyoliver.repl.co)
+[![Website Link](https://img.shields.io/badge/Visit%20The%20Farm-252525?style=for-the-badge&logo=instacart&logoColor=white&link=https://kennyoliver.github.io/animal-farm/)](https://kennyoliver.github.io/animal-farm/)
 
 ---
 Kenny Oliver ©2021
