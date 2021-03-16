@@ -12,6 +12,7 @@ body {
 }
 
 audio {
+  display: none;
   width: 10%;
 }
 
