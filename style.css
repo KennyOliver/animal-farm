@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background: rgb(252,196,69); /* fallback */
-  background: linear-gradient(135deg, rgba(252,196,69,1) 25%, rgba(253,29,29,1) 75%);
+  background: rgb(69,246,252); /* fallback */
+  background: linear-gradient(135deg, rgba(69,246,252,1) 25%, rgba(253,211,29,1) 75%);
   background-repeat: no-repeat;
   height: 100%;
   margin: 0 auto;
